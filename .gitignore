@@ -1,0 +1,56 @@
+# WordPress Core
+/wp-admin/
+/wp-includes/
+/wp-content/index.php
+/wp-content/languages
+/wp-content/plugins/index.php
+/wp-content/themes/index.php
+*.log
+
+# WordPress Config
+wp-config.php
+wp-config-local.php
+
+# Uploads folder
+/wp-content/uploads/
+
+# Cache
+/wp-content/cache/
+/wp-content/advanced-cache.php
+/wp-content/backup-db/
+/wp-content/backups/
+/wp-content/blogs.dir/
+/wp-content/upgrade/
+
+# Plugins por defecto
+/wp-content/plugins/akismet/
+/wp-content/plugins/hello.php
+
+# Temas por defecto
+/wp-content/themes/twenty*/
+
+# Node modules
+node_modules/
+/vendor/
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.idea/
+.vscode/
+
+# Backups y SQL
+*.sql
+*.sql.gz
+*.zip
+*.tar.gz
+
+# Entorno
+.env
