@@ -1,0 +1,84 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TBBL-woocommerce-delete-orders-PREMIUM (WCDO)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-22 12:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+"X-Domain: TBBL-woocommerce-delete-orders-PREMIUM"
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:104
+msgid "All"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Borrado masivo de pedidos con un simple click / Delete woocommerce's orders "
+"with a single click."
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:145
+msgid "Delete"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:121
+msgid "Filter"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://theblackboxlab.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://theblackboxlab.com/tienda/woocommerce-delete-orders-premium/"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:128
+msgid "Make Backup"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:78
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:133
+msgid "Please, select a date"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:79
+msgid "Premium version functionality"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:158
+msgid "Records"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:189
+msgid "Save"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:95
+msgid "Search orders before date:"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:101
+msgid "Status"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:157
+msgid "Table"
+msgstr ""
+
+#. Name of the plugin
+msgid "TBBL-woocommerce-delete-orders-PREMIUM (WCDO)"
+msgstr ""
+
+#. Author of the plugin
+msgid "The Black Box Lab"
+msgstr ""

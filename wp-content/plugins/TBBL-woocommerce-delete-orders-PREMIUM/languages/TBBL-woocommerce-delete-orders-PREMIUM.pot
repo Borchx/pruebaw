@@ -1,0 +1,130 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TBBL-woocommerce-delete-orders-PREMIUM (WCDO)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-22 12:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.1\n"
+"X-Domain: TBBL-woocommerce-delete-orders-PREMIUM"
+
+#: includes/WCDO-setting-plugin.php:121
+msgid "Activated site"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:107
+msgid "All"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Borrado masivo de pedidos con un simple click / Delete woocommerce's orders "
+"with a single click."
+msgstr ""
+
+#: includes/WCDO-setting-plugin.php:117
+msgid "Current site"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:148
+msgid "Delete"
+msgstr ""
+
+#: includes/WCDO-setting-plugin.php:126
+msgid "E-Mail"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:124
+msgid "Filter"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://theblackboxlab.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://theblackboxlab.com/tienda/woocommerce-delete-orders-premium/"
+msgstr ""
+
+#: includes/WCDO-setting-plugin.php:130
+msgid "License date"
+msgstr ""
+
+#: includes/WCDO-setting-plugin.php:116
+msgid "License information"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:131
+msgid "Make Backup"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:81
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:136
+msgid "Please, select a date"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:82
+msgid "Premium version functionality"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:161
+msgid "Records"
+msgstr ""
+
+#: includes/WCDO-setting-plugin.php:141
+msgid "Register"
+msgstr ""
+
+#: includes/WCDO-setting-plugin.php:51
+msgid "REGISTERED E-MAIL"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:192
+msgid "Save"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:98
+msgid "Search orders before date:"
+msgstr ""
+
+#: includes/WCDO-setting-plugin.php:106
+msgid "Settings API WCDO"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:104
+#: includes/WCDO-setting-plugin.php:135
+msgid "Status"
+msgstr ""
+
+#: TBBL-woocommerce-delete-orders-PREMIUM.php:160
+msgid "Table"
+msgstr ""
+
+#. Name of the plugin
+msgid "TBBL-woocommerce-delete-orders-PREMIUM (WCDO)"
+msgstr ""
+
+#. Author of the plugin
+msgid "The Black Box Lab"
+msgstr ""
+
+#: includes/WCDO-setting-plugin.php:74 includes/WCDO-setting-plugin.php:78
+msgid "The e-mail you used in your purchase."
+msgstr ""
+
+#. Page Title
+#: includes/WCDO-setting-plugin.php:7
+msgid "WCDO Settings"
+msgstr ""
+
+#: includes/WCDO-setting-plugin.php:100
+msgid "You do not have enought permissions to access this page."
+msgstr ""

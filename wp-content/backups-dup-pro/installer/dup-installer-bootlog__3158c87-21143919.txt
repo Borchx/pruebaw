@@ -1,0 +1,29 @@
+[Jun 22 15:22:42] 
+[Jun 22 15:22:42] ==DUPLICATOR INSTALLER BOOTSTRAP v4.5.5==
+[Jun 22 15:22:42] ----------------------------------------------------
+[Jun 22 15:22:42] Installer bootstrap start
+[Jun 22 15:22:42] Ready to extract the installer
+[Jun 22 15:22:42] Checking permission of destination folder
+[Jun 22 15:22:42] Expand directory from offset 4298747673
+[Jun 22 15:22:43] Move dup-installer folder to custom folder:/var/www/vhosts/gotyourkicks.com/httpdocs/wp-content/backups-dup-pro/imports/dup-installer-b6f870e-21143919
+[Jun 22 15:22:43] SAPI: FPM
+[Jun 22 15:22:43] Server: Apache
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919<br/>
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919/addons<br/>
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919/api<br/>
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919/assets<br/>
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919/classes<br/>
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919/ctrls<br/>
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919/favicon<br/>
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919/libs<br/>
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919/original_files_[HASH]<br/>
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919/src<br/>
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919/templates<br/>
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919/vendor<br/>
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919/dup-archive__[HASH].txt<br/>
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919/dup-scan__[HASH].json<br/>
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919/dup-scanned-dirs__[HASH].txt<br/>
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919/dup-scanned-files__[HASH].txt<br/>
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919/index.php<br/>
+[Jun 22 15:22:43] Set permissions of dup-installer-b6f870e-21143919/main.installer.php<br/>
+[Jun 22 15:22:43] DONE: No detected errors so redirecting to the main installer. Main Installer URI = https://gotyourkicks.com/wp-content/backups-dup-pro/imports/dup-installer-b6f870e-21143919/main.installer.php

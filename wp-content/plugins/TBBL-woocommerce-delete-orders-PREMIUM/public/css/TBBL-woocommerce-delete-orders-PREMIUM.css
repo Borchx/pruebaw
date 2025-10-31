@@ -1,0 +1,81 @@
+.WCDO-100prc { width: 100%; }
+.WCDO-50prc { width: 50%; }
+.WCDO-25prc { width: 25%; }
+
+.WCDO-Filtro_checkbox {  
+  padding-top: 5px; 
+  float: left;
+}
+
+.WCDO-Filtro{
+  float: left;
+  margin-right: 20px;
+}
+
+#WCDO-loading {
+  display: none;
+  width: 200px;
+  height: 200px;
+  margin-left: calc(50% - 100px);
+}
+
+.WCDO-loading-plugin {
+  display: none;
+  width: 30px;
+  height: 30px;
+}
+
+#WCDO-backup {
+  min-height: 250px;    
+  font-size: 12px;
+  display: none;
+}
+
+.WCDO-div-delete { 
+  position: absolute;
+  right: 0;
+  margin-right: 20px;
+}
+
+#WCDOp_save_backup { 
+  display: none;
+  margin: 10px 0;
+}
+
+#WCDOp_msg {  display: none; }
+#WCDOp_Fde {  display: none; }
+#WCDOp_FuncionPremium {  display: none; }
+#WCDOp_delete { display: none; }
+
+#WCDO-Filters {
+    float: left;
+    width: 75%;
+    margin-bottom: 20px;
+}
+#WCDO-Borrar {
+    width: 25%;
+    float: right;
+}
+
+#TBBL-Logo {
+    width: 150px;
+    position: absolute;
+    right: 0;
+    top: 0;  
+}
+
+.WCDO_input_reg {
+    width: 50%;
+}
+
+.WCDO_span_reg {
+    width: 15%;
+    display: inline-flex;    
+    margin-left: 50px;
+}
+
+@media (max-width: 600px) {
+    .WDCO-td-dato { text-align: center; }
+    #WDCO-th-dato { width: 75px; }
+}
+

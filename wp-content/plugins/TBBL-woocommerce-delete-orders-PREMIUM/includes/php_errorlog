@@ -1,0 +1,6 @@
+[15-Feb-2021 19:42:18 UTC] PHP Notice:  Undefined index: post_url in /home/thebl398/public_html/pruebas/wp-content/plugins/TBBL-woocommerce-delete-orders-PREMIUM/includes/ajax-WCDO-api.php on line 10
+[15-Feb-2021 19:42:18 UTC] PHP Notice:  Undefined index: post_admin_email in /home/thebl398/public_html/pruebas/wp-content/plugins/TBBL-woocommerce-delete-orders-PREMIUM/includes/ajax-WCDO-api.php on line 11
+[15-Feb-2021 19:42:18 UTC] PHP Notice:  Undefined index: post_code in /home/thebl398/public_html/pruebas/wp-content/plugins/TBBL-woocommerce-delete-orders-PREMIUM/includes/ajax-WCDO-api.php on line 12
+[15-Feb-2021 19:45:28 UTC] PHP Notice:  Undefined index: post_url in /home/thebl398/public_html/pruebas/wp-content/plugins/TBBL-woocommerce-delete-orders-PREMIUM/includes/ajax-WCDO-api.php on line 10
+[15-Feb-2021 19:45:28 UTC] PHP Notice:  Undefined index: post_admin_email in /home/thebl398/public_html/pruebas/wp-content/plugins/TBBL-woocommerce-delete-orders-PREMIUM/includes/ajax-WCDO-api.php on line 11
+[15-Feb-2021 19:45:28 UTC] PHP Notice:  Undefined index: post_code in /home/thebl398/public_html/pruebas/wp-content/plugins/TBBL-woocommerce-delete-orders-PREMIUM/includes/ajax-WCDO-api.php on line 12
